@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "hey friday",
   "author": "r2tea2.home-assistant.io",
-  "website": "https://github.com/r2tea2/haha-voice.git",
+  "website": "https://github.com/r2tea2/haha-voice/tree/cc08fb4117fab355c189e3de73cff55221586ec2/english",
   "model": "hey_friday.tflite",
   "trained_languages": [
     "en"
